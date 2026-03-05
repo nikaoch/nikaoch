@@ -5,4 +5,5 @@ Em transição de carreira, recém formado como Desenvolvedor Front-end pela EBA
 
 ### Detalhes
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikaoch&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://readmestats-inky.vercel.app/api?username=nikaoch&show_icons=true&theme=dark)
+
