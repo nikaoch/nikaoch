@@ -20,7 +20,8 @@ Criada usando React.app, com Typescript como linguagem, Redux para gerenciamento
 ![Readme Card](https://readmestats-inky.vercel.app/api/pin/?username=nikaoch&repo=exercicio-35&theme=dark)
 
 Uma página web robusta de uma plataforma que contem vários restaurantes, podendo escolher o estabelecimento desejado, indo para a página do estabelecimento e podendo escolher produtos e adicionar ao carrinho para comprar.
-Criada usando React.app, com Typescript como linguagem, Redux para gerenciamento de estado, Styled-components para estilização de forma mais organizada e de fácil entendimento.
+
+Criada usando React.app, com Typescript como linguagem, Redux para gerenciamento de estado, React-Router-dom para rotas de navegação, Styled-components para estilização de forma mais organizada e de fácil entendimento.
 
 
 ![Readme Card](https://readmestats-inky.vercel.app/api/pin/?username=nikaoch&repo=minhas-tarefas&theme=dark)
@@ -34,6 +35,7 @@ Criada usando React.app, com Typescript como linguagem, Redux para gerenciamento
 ![Readme Card](https://readmestats-inky.vercel.app/api/pin/?username=nikaoch&repo=clone_disneyplus&theme=dark)
 
 Uma página web bem completa sendo um clone do site oficial da Disney Plus, contendo um Hero com informações sobre assinaturas, seções “Em breve”, “Mais populares” e “Mais no Star+”, que mostram todo o conteúdo de filmes, desenhos e séries. Seção de planos de assinatura, aparelhos compatíveis e seção “Perguntas frequentes” para possíveis dúvidas do usuário.
+
 Criada usando um arquivo .html básico, estilização usando CSS e SCSS, com media querys para tornar a página responsiva em diversos aparelhos, usando Gulp para fazer tarefas, por exemplo, compactar e comprimir arquivos para ocupar menos espaço e funções em Javascript para tornar a página dinâmica e interativa.
 
 
@@ -41,6 +43,7 @@ Criada usando um arquivo .html básico, estilização usando CSS e SCSS, com med
 ![Readme Card](https://readmestats-inky.vercel.app/api/pin/?username=nikaoch&repo=Projeto3&theme=dark)
 
 Uma página web básica de um restaurante, contendo seções “Sobre o restaurante”, “Para todas as ocasiões”, “Nosso cardápio” e “Fale conosco”.
+
 Criada usando um arquivo .html básico, com estilização em CSS básico e Bootstrap, dando uma encorpada na estilização da página. Também foi usado alguns recursos do JQuery, como validação de formulário e máscara para facilitar o preenchimento do mesmo.
 
 
@@ -48,6 +51,7 @@ Criada usando um arquivo .html básico, com estilização em CSS básico e Boots
 ![Readme Card](https://readmestats-inky.vercel.app/api/pin/?username=nikaoch&repo=Projeto2&theme=dark)
 
 Uma página web básica contendo uma calculadora de médias, onde você coloca quanto é o valor da média assim que abre o site, e depois adiciona o nome da matéria e a nota, e clicando em “adicionar”, aparece se o resultado foi Aprovado ou Reprovado.
+
 Criada usando um arquivo .html básico, com estilização em CSS básico também, porém com introdução de programação Javascript para funcionar os cálculos e retornar o resultado correto na tela.
 
 
