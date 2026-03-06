@@ -9,11 +9,11 @@ Em transição de carreira, recém formado como Desenvolvedor Front-end pela EBA
 
 ### Projetos
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikaoch&repo=pedrogithub2406.github.io&theme=dark)
+![Readme Card](https://readmestats-inky.vercel.app/api/pin/?username=nikaoch&repo=eplay.github.io&theme=dark)
 
 ### Linguagens utilizadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogithub1406&layout=compact)
+![Top Langs](https://readmestats-inky.vercel.app/api/top-langs/?username=nikaoch&layout=compact)
 
 ### Contatos
 
