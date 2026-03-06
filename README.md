@@ -13,8 +13,6 @@ Em transição de carreira, recém formado como Desenvolvedor Front-end pela EBA
 
 ![Readme Card](https://readmestats-inky.vercel.app/api/pin/?username=nikaoch&repo=exercicio-35&theme=dark)
 
-![Readme Card](https://readmestats-inky.vercel.app/api/pin/?username=nikaoch&repo=ebac_games_redux&theme=dark)
-
 ![Readme Card](https://readmestats-inky.vercel.app/api/pin/?username=nikaoch&repo=minhas-tarefas&theme=dark)
 
 ![Readme Card](https://readmestats-inky.vercel.app/api/pin/?username=nikaoch&repo=clone_disneyplus&theme=dark)
