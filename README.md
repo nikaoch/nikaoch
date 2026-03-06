@@ -10,3 +10,11 @@ Em transição de carreira, recém formado como Desenvolvedor Front-end pela EBA
 ### Projetos
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikaoch&repo=pedrogithub2406.github.io&theme=dark)
+
+### Linguagens utilizadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogithub1406&layout=compact)
+
+### Contatos
+
+<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>
