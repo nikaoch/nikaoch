@@ -9,7 +9,7 @@ Em transição de carreira, recém formado como Desenvolvedor Front-end pela EBA
 
 ### Projetos
 
-![Readme Card](https://readmestats-inky.vercel.app/api/pin/?username=nikaoch&repo=eplay.github.io&theme=dark)
+![Readme Card](https://readmestats-inky.vercel.app/api/pin/?username=nikaoch&repo=eplay&theme=dark)
 
 ### Linguagens utilizadas
 
