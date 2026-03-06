@@ -19,6 +19,10 @@ Criada usando React.app, com Typescript como linguagem, Redux para gerenciamento
 
 ![Readme Card](https://readmestats-inky.vercel.app/api/pin/?username=nikaoch&repo=exercicio-35&theme=dark)
 
+Uma página web robusta de uma plataforma que contem vários restaurantes, podendo escolher o estabelecimento desejado, indo para a página do estabelecimento e podendo escolher produtos e adicionar ao carrinho para comprar.
+Criada usando React.app, com Typescript como linguagem, Redux para gerenciamento de estado, Styled-components para estilização de forma mais organizada e de fácil entendimento.
+
+
 ![Readme Card](https://readmestats-inky.vercel.app/api/pin/?username=nikaoch&repo=minhas-tarefas&theme=dark)
 
 Uma página web básica de uma lista de tarefas, na qual podemos adicionar, excluir, editar e marcar tarefas como concluídas. Possui sistema de filtro por tags e sistema de busca por conteúdo.
