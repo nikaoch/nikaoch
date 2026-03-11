@@ -1,6 +1,6 @@
 ## Olá! Seja bem vindo! 👋
 
-###### Sobre o Nícolas:
+#### Sobre o Nícolas:
 Em transição de carreira, recém formado como Desenvolvedor Front-end pela EBAC e pronto pra trabalhar na área com habilidades em Desenvolvimento Web.
 
 ### Detalhes
