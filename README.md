@@ -17,7 +17,7 @@ Criada usando React.app, com Typescript como linguagem, Redux para gerenciamento
 
 
 
-![Readme Card](https://readmestats-inky.vercel.app/api/pin/?username=nikaoch&repo=exercicio-35&theme=dark)
+![Readme Card](https://readmestats-inky.vercel.app/api/pin/?username=nikaoch&repo=efood&theme=dark)
 
 Uma página web robusta de uma plataforma que contem vários restaurantes, podendo escolher o estabelecimento desejado, indo para a página do estabelecimento e podendo escolher produtos e adicionar ao carrinho para comprar.
 
